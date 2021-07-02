@@ -1,2 +1,2 @@
-# ReactNative
-Projetos em React Native
+###Projeto em React Native
+**Notícia do dia**
